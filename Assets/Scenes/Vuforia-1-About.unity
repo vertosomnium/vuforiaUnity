@@ -232,7 +232,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f34a15829c98cd544866ef0e96f2877d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d9ab4b6708401a148a135a6cb0dbca01, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -331,7 +331,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Object Recognition
+  m_Text: Text Reco
 --- !u!222 &634845634
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -394,7 +394,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f34a15829c98cd544866ef0e96f2877d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d9ab4b6708401a148a135a6cb0dbca01, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -661,7 +661,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f34a15829c98cd544866ef0e96f2877d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d9ab4b6708401a148a135a6cb0dbca01, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -877,7 +877,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: f34a15829c98cd544866ef0e96f2877d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: d9ab4b6708401a148a135a6cb0dbca01, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1033,14 +1033,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "The Object Recognition sample shows how to recognize and track an object.
-    \                                                                                \r\nKey
-    Functionality\r\n- Recognize and track up to 2 objects simultaneously\r\n- Activate
-    Extended Tracking\r\n- Manage camera functions: flash\r\n\r\nInstructions\r\n-
-    Scan an object with the Vuforia Object Scanner\r\n- Create a device database using
-    the Target Manager\r\n- Compile the sample with your database\r\n- Point at an
-    object to see an augmented box around it\r\n- Single tap to focus\r\n- Double
-    tap to access the options menu\r\n\r\nTerms of Use\r\nhttps://developer.vuforia.com/legal/EULA\r\n\r\n\xA9
+  m_Text: "The Text Reco sample shows dynamic recognition of English words within
+    a specified region of the camera frame.\n\nKey Functionality\n- Detection and
+    tracking of English words included in default word list\n\nTargets\nhttps://developer.vuforia.com/resources/dev-guide/word-targets\n\nInstructions\n-
+    Point camera at text to recognize\n- Single tap to focus\n- Double tap to access
+    options menu\n\nTerms of Use\nhttps://developer.vuforia.com/legal/EULA\n\n\xA9
     2016 PTC Inc. All Rights Reserved."
 --- !u!222 &1983687447
 CanvasRenderer:
